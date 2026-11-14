@@ -130,7 +130,7 @@ The design uses a **dark theme** with a deep purple base and a lime accent.
 
 ## Figma Design Link
 
-[Open the Numu design in Figma](FIGMA_LINK_HERE)
+[Open the Numu design in Figma]([FIGMA_LINK_HERE](https://www.figma.com/design/R7CEzH7ejRRBIlOEqvxbSe/%D9%86%D9%85%D9%88?node-id=0-1&t=7mbXiLnWdcvH0hFv-1))
 
 ## Project Scope and Limitations
 
