@@ -126,9 +126,10 @@ The design uses a **dark theme** with a deep purple base and a lime accent.
 | ![Notifications](screenshots/08-notifications.png) | ![Navigation](design-system/navigation-states.png) |
 | Notifications | Navigation States |
 
+
 ## Figma Design Link
 
-[Open the Numu design in Figma]([FIGMA_LINK_HERE](https://www.figma.com/design/R7CEzH7ejRRBIlOEqvxbSe/%D9%86%D9%85%D9%88?node-id=0-1&t=7mbXiLnWdcvH0hFv-1))
+[Open the Numu design in Figma](https://www.figma.com/design/R7CEzH7ejRRBIlOEqvxbSe/%D9%86%D9%85%D9%88?node-id=0-1&t=7mbXiLnWdcvH0hFv-1)
 
 ## Project Scope and Limitations
 
