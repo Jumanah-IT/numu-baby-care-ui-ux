@@ -166,12 +166,6 @@ This project **does not include**:
 - Content review by qualified pediatric professionals.
 - Implementation as a separate phase, if the concept is developed further.
 
-## Credits
-
-**Design:** AUTHOR_NAME
-**Role:** UI/UX Design (replace if needed)
-**Tool:** Figma
-**Contact:** CONTACT_OR_PORTFOLIO_LINK
 
 ---
 
