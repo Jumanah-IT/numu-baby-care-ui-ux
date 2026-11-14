@@ -4,8 +4,7 @@
 
 ![Project type](https://img.shields.io/badge/Type-UI%2FUX%20Design-A855F7) ![Tool](https://img.shields.io/badge/Tool-Figma-1E1E1E) ![Status](https://img.shields.io/badge/Status-Design%20Concept-E2F25F)
 
-<!-- Optional: add the hero image here -->
-<!-- ![Numu hero](screenshots/00-hero.png) -->
+
 
 ---
 
@@ -92,7 +91,6 @@ The features below are **visual designs**. None of them is functional (see [Proj
 
 The design uses a **dark theme** with a deep purple base and a lime accent.
 
-<!-- TODO: replace the approximate values below with the exact values from the Figma styles. -->
 
 | Role | Description | Approx. value |
 |---|---|---|
